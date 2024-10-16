@@ -1,0 +1,8 @@
+#include <stdio.h>
+main(){
+  int a=20, b=30, c=40
+  int idade
+  idade=25
+  printf("A minha idade eh %d \r
+  printf("A media eh:%f \n", (a
+}
